@@ -27,4 +27,7 @@ This application has many real-world applications such as online chat systems, c
 
 In conclusion, the real-time chat application is a valuable project for learning modern web development concepts. It combines HTML, CSS, JavaScript, Node.js, Express.js, and Socket.IO to create a fully functional real-time system. Tools like VS Code and npm make development easier and more organized. This project not only improves programming skills but also helps in understanding how real-time applications used in industry are built and deployed.
 
+#OUTPUT
+<img width="760" height="494" alt="Image" src="https://github.com/user-attachments/assets/4f4e7f0f-0445-4aba-9ad7-624598fa8843" />
+
 
